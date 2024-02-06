@@ -1,0 +1,10 @@
+git init: -> inicializa un repositorio o lo reinicia
+
+git status -> obtengo info del repositorio o tambien puedo verificar si mis cambios se guardaron
+
+git add ->
+
+git commit -m "algo" -> texto explicativo o volver al repo local
+
+git log ->  muestra las instantáneas confirmadas. Te permite ver el historial del proyecto, filtrarlo y buscar cambios concretos.
+
